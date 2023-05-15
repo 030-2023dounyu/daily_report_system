@@ -6,7 +6,7 @@ import javax.persistence.Persistence;
 
 import constants.JpaConst;
 
-public class DBUtill {
+public class DBUtil {
     private static EntityManagerFactory emf;
 
     //EntityManagerインスタンスを生成
